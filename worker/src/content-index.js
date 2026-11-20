@@ -1,5 +1,5 @@
 export default {
-  "generatedAt": "2026-11-20T13:57:58.050Z",
+  "generatedAt": "2026-11-20T18:38:01.792Z",
   "itemCount": 247,
   "items": [
     {
